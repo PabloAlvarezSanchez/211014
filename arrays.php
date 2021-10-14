@@ -1,3 +1,4 @@
+<?php
 define('MAX',20);
 
 for($i=0;$i<=MAX;$i++){
@@ -9,3 +10,5 @@ for($i=0;$i<=MAX;$i++){
     echo "<br>";
 }
 echo "<br>";
+
+?>
